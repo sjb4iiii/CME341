@@ -1,0 +1,5 @@
+To, Assignment Name, Value
+set, Location, PIN_Y23
+clear, Location, PIN_AB28
+Q, Location, PIN_H15
+Q_n, Location, PIN_G19
